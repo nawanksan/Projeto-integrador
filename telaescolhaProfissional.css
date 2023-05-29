@@ -1,0 +1,38 @@
+.foto{
+    padding-top: 3%;
+    width: 49%;
+}
+
+body{
+    background-color: darkred;
+}
+
+.selecao{
+    border: 1px solid #ffffff50;
+    backdrop-filter: blur(20px);
+    background-color:white;
+    border-radius: 10px;
+    margin-top: 4%;
+    margin-left: 25%;
+    width: 50%; 
+}
+table tr{
+    word-break: break-all;
+}
+table{
+    
+    margin-left: 24%;
+    margin-bottom: 5%;
+}
+img{
+    margin-left: 25%;
+}
+
+.buttoes {
+    text-align: center;
+    padding-bottom: 2%;
+}
+
+.buttoes button {
+    margin-right: 2%;
+}
